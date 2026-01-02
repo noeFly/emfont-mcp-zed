@@ -1,0 +1,10 @@
+id = "emfont-mcp-server"
+name = "emfont MCP Server"
+version = "0.0.1"
+schema_version = 1
+authors = ["noeFly <flyer@noefly.is-a.dev>"]
+description = "Model Context Protocal Server for emfont"
+repository = "https://gitlab.com/noeFly/emfont-mcp-zed"
+
+[context_servers.emfont-mcp]
+name = "emfont MCP Server"
